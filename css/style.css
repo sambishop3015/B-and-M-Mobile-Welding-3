@@ -26,7 +26,17 @@ a {
   color: white;
 }
 
+.tel2 {
+  color: #333;
+}
+
 .tel:hover {
+  color:#00A0C6; 
+  text-decoration:none; 
+  cursor:pointer; 
+}
+
+.tel2:hover {
   color:#00A0C6; 
   text-decoration:none; 
   cursor:pointer; 
